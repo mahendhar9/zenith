@@ -1,0 +1,4 @@
+# github.com/mahendhar9/zenith v0.0.0-00010101000000-000000000000 => ../zenith
+## explicit; go 1.23.2
+github.com/mahendhar9/zenith
+# github.com/mahendhar9/zenith => ../zenith
